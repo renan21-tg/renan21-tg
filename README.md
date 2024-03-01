@@ -34,7 +34,6 @@
 <div align="center">
   <a href="https://github.com/renan21-tg">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renan21-tg&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan21-tg&layout=compact&langs_count=8&theme=aura"/>
 </div>
 
 <br>
