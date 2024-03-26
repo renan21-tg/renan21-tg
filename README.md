@@ -31,9 +31,10 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/renan21-tg">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=renan21-tg&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<div align="center"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan21-tg&theme=tokyonight&icons=true)
+
 </div>
 
 <br>
