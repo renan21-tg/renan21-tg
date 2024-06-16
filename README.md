@@ -8,18 +8,18 @@
   
 <br>
 
-*Olá! Me chamo Renan Tomasi e sou um jovem estudante de programação* <br><br>
+*Hello! My name is Renan Tomasi and I am a young programming student.* <br><br>
   
-  - 🌱 Cursando Análise e Desenvolvimento de Sistema na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
+  - 🌱 Studying Systems Analysis and Development at FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Atualmete no 1º semestre do ensino superior e rumo ao full-stack!
+  - 🗓️ Currently in the 1st semester of higher education and on my way to becoming a full-stack developer!<br>
 
 <details>
-  <summary>👨‍💻 Mais sobre mim </summary>
+  <summary>👨‍💻 More about me </summary>
   
-  - 💭 Tenho 17 anos, atualmente morando na cidade de São José dos Campos. Sou fluente em inglês e estou desenvolvendo minhas habilidades em HTML, CSS e Python.<br>
+  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in HTML, CSS, Python and MySQL.<br>
   
-  - ⚡ Gosto de praticar esportes (principalmente basquete), ouvir música e estudar sempre que possível, afim de expandir meus conhecimentos!
+  - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
 
 <div align="center">
@@ -53,14 +53,25 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    
   </div>
-  
+
+  <br>
   
   <div style="flex-basis: 48%;">
-    <h3>Softwares</h3>
+    <h3>Toolss</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   </div>
+
+  <br>  
+    
+  <div style="flex-basis: 48%;">
+    <h3>Libraries & Frameworks</h3>
+    <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
 <br><br>
 <div align='center'>
