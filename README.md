@@ -12,7 +12,7 @@
   
   - 🌱 Studying Systems Analysis and Development at FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Currently in the 1st semester of higher education and on my way to becoming a full-stack developer!<br>
+  - 🗓️ Currently in the 2nd semester of higher education and on my way to becoming a full-stack developer!<br>
 
 <details>
   <summary>👨‍💻 More about me </summary>
@@ -22,10 +22,6 @@
   - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
 
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qizt3pwbwcw8gptmkes9bvhdh&cover_image=true&theme=novatorem&show_offline=false&background_color=ffa3a3&interchange=false&bar_color=795889&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
