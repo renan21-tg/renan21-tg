@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me </summary>
   
-  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in HTML, CSS, Python and MySQL.<br>
+  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in Java, Javascript and MySQL.<br>
   
   - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
