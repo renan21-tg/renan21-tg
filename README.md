@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me </summary>
   
-  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in Java, Javascript and MySQL.<br>
+  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in MySQL, Java,HTML, CSS and Javascript.<br>
   
   - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
@@ -44,17 +44,20 @@
 
 ## 🔥 Skills
 
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-    
-
-    
+<div style="flex-basis: 48%;">
+    <h2>Programming Languages</h2>
+        <div style="flex-basis: 48%;">
+            <h3>Front-end</h3>
+            <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        </div>
+        <div style="flex-basis: 48%;">
+            <h3>Back-end</h3>
+            <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+            <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+        </div>
   </div>
 
   <br>
