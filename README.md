@@ -42,10 +42,12 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-tomasi-guariente-aa13022b8/)
 </div>
 
-## 🔥 Skills
+# 🔥 Skills 
+
+## Conecte-se comigo:
 
 <div style="flex-basis: 48%;">
-    <h2>Programming Languages</h2>
+    <h2 style="text-decoration: none">Programming Languages</h2>
         <div style="flex-basis: 48%;">
             <h3>Front-end</h3>
             <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -63,7 +65,7 @@
   <br>
   
   <div style="flex-basis: 48%;">
-    <h3>Toolss</h3>
+    <h2>Toolss</h2>
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
@@ -74,7 +76,7 @@
   <br>  
     
   <div style="flex-basis: 48%;">
-    <h3>Libraries & Frameworks</h3>
+    <h2>Libraries & Frameworks</h2>
     <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg">
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
