@@ -60,7 +60,7 @@
   <br>
   
   <div style="flex-basis: 48%;">
-    <h2>Toolss</h2>
+    <h2>Tools</h2>
       
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea,aws,github,git&perline=6)](https://skillicons.dev)
   </div>
