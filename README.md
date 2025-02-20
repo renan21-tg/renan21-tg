@@ -12,12 +12,12 @@
   
   - 🌱 Studying Systems Analysis and Development at FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Currently in the 2nd semester of higher education and on my way to becoming a full-stack developer!<br>
+  - 🗓️ Currently in the 3rd semester of higher education and on my way to becoming a full-stack developer!<br>
 
 <details>
   <summary>👨‍💻 More about me </summary>
   
-  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in MySQL, Java,HTML, CSS and Javascript.<br>
+  - 💭 I am 18 years old, currently living in the city of São José dos Campos. I am fluent in English and developing my skills in Javascript and Typerscript.<br>
   
   - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
