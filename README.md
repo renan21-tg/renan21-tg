@@ -1,9 +1,7 @@
-<!--divisor-->
 ---
 
-<!--título-->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=9A9A9A&width=500&height=70&duration=4000&lines=<Hello+World!+👋+/>;"/>  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=9A9A9A&width=500&height=70&duration=3500&lines=<Hello+World!+👋+/>;"/>  
 </div>
   
 <br>
@@ -42,37 +40,12 @@
 
 </div>
 
-</div>
+<br><br>
 
-# 🔥 Skills 
-
-<div style="flex-basis: 48%;">
-    <h2 style="text-decoration: none">Programming Languages</h2>
-        <div style="flex-basis: 48%;">
-            <h3>Front-end</h3>
-            
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&perline=3)](https://skillicons.dev)
-        </div>
-        <div style="flex-basis: 48%;">
-            <h3>Back-end</h3>
-[![My Skills](https://skillicons.dev/icons?i=python,java,mysql&perline=3)](https://skillicons.dev)
-        </div>
-  </div>
-
-  <br>
-  
-  <div style="flex-basis: 48%;">
-    <h2>Tools</h2>
-      
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,idea,aws,github,git&perline=6)](https://skillicons.dev)
-  </div>
-
-  <br>  
+<div align="center">   
     
-  <div style="flex-basis: 48%;">
-    <h2>Libraries & Frameworks</h2>
-      
-[![My Skills](https://skillicons.dev/icons?i=flask,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nodejs,python,mysql,docker,git&perline=10)](https://skillicons.dev)
+
 </div>
 
 <br><br>
