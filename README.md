@@ -3,7 +3,7 @@
 
 <!--título-->
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋+/>;"/>  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=9A9A9A&width=500&height=70&duration=4000&lines=<Hello+World!+👋+/>;"/>  
 </div>
   
 <br>
@@ -36,15 +36,11 @@
 <br>
 
 <div align="center">  
-    
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/renan-tomasi/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:renantomasi21@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_renant_g/)
-<!--
-  <a href="mailto:raphaelabm.dev@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/raphaelamonteiro/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-8C67DB?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/ilyraphaela/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-ff0000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  -->
+
+  <a href="mailto:renantomasi21@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-242424?style=for-the-badge&logo=gmail&logoColor=9A9A9A"></a>
+  <a href="https://www.linkedin.com/in/renan-tomasi" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=9A9A9A"></a>
+  <a href="https://www.instagram.com/_renant_g/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-242424?style=for-the-badge&logo=instagram&logoColor=9A9A9A"></a>
+
 </div>
 
 </div>
@@ -83,7 +79,7 @@
 <br><br>
 <div align='center'>
   
-  <img src="https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif" alt="Imagem">
+  <img width=1000px src="https://secure.static.tumblr.com/1188d66c54531e60196b8844dd1038e6/lpk99qd/il7ofw8ig/tumblr_static_tumblr_static_27g259k282xwo80cw888g8cs_640.gif" alt="Imagem">
 </div>
 
 <br><br>
