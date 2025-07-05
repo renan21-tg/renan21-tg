@@ -1,5 +1,5 @@
 <!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <!--título-->
 <div align="center">
@@ -22,14 +22,13 @@
   - ⚡I enjoy playing sports (especially basketball), listening to music, and studying whenever possible to expand my knowledge!
 </details>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <br>
 
 <div align="center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan21-tg&theme=tokyonight&icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renan21-tg&theme=apprentice&icons=true)
 
 </div>
 
@@ -84,4 +83,4 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
